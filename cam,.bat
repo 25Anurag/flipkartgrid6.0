@@ -1,0 +1,1 @@
+ffmpeg -f dshow -i video="HD 2MP WEBCAM" -vf fps=1/3 fruit_classification/captured_images/image-%03d.jpg
