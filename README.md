@@ -15,7 +15,6 @@
 - [Usage](#usage)
 - [Workflow](#workflow)
 - [Team](#team)
-- [License](#license)
 
 ## Project Structure
 
@@ -83,15 +82,6 @@ To get started with Automated Vision AI, follow these steps:
 3. **OCR**: Use Tesseract or another OCR library to extract text.
 4. **Postprocessing**: Clean up the extracted text (if necessary).
 
-## License
-
-This project is licensed under the MIT License.
-
-```
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
-```
 
 ## Team
 
